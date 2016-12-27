@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\dev\CGAL-4.9\include\CGAL/IO/io.h(173): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note:  см. объявление "sscanf"
+C:\dev\CGAL-4.9\include\CGAL/FPU.h(415): warning C4996: '_controlfp_s': Direct floating point control is not supported or reliable from within managed code.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\float.h(246): note:  см. объявление "_controlfp_s"
+C:\dev\CGAL-4.9\include\CGAL/FPU.h(425): warning C4996: '_controlfp_s': Direct floating point control is not supported or reliable from within managed code.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\float.h(246): note:  см. объявление "_controlfp_s"
+c:\users\andrey\documents\visual studio 2015\projects\sample\sample\CGALHolder.h(29): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+MyForm.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  sample.vcxproj -> C:\Users\Andrey\documents\visual studio 2015\Projects\sample\x64\Debug\sample.exe
+  sample.vcxproj -> C:\Users\Andrey\documents\visual studio 2015\Projects\sample\x64\Debug\sample.pdb (Partial PDB)

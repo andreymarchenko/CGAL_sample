@@ -1,0 +1,3 @@
+﻿  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  sample.vcxproj -> c:\users\andrey\documents\visual studio 2015\Projects\sample\Debug\sample.exe
+  sample.vcxproj -> c:\users\andrey\documents\visual studio 2015\Projects\sample\Debug\sample.pdb (Partial PDB)
